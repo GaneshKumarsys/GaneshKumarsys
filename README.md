@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 | I'm Ganesh Kumar!
+🎯 **Aspiring Data Analyst** | 💬 **Building Predictive Model** | 📊 Passionate about data analysis
 
-<!--
-**GaneshKumarsys/GaneshKumarsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Biotechnology student exploring the world of data science.
+- 📫 Currently learning: SQL, Python for Data Analysis, Statistics, and Machine Learning.
+- 💡 Interested in applying data science to real-world biological and research problems.
+- 📌 Love storytelling with data — from raw CSVs to compelling visualizations.
+  
+## 🪢 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-- **Languages**: Python, SQL, R , Markdown
+-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+-- **Tools**: Jupyter Notebook, Google Colab, Excel, Git & GitHub
+-- **Areas**: Data Cleaning, EDA, Data Visualization, Predictive Modeling
+
+## 📄 Working on Project related to Data Analyst
+
+
+------          🔻🔻Future Updates🔻🔻          -----
+
+
+## 🫱 Reach me out
+
+--📫 Email: ganeshkumartri@email.com
+--💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-v-31416a354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsd3DLQ3NTieJdWEP3v40sA%3D%3D)
+
+
+## 📩 Quote
+
+“The goal is to turn data into information, and information into insight.” – Carly Fiorina
+
