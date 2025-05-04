@@ -1,5 +1,5 @@
 ## Hi there 👋 | I'm Ganesh Kumar!
-🎯 **Aspiring Data Analyst** | 💬 **Building Predictive Model** | 📊 Passionate about data analysis
+🎯 **Aspiring Data Analyst** | 💬 **Regression Forecasting** | 📊 **Passionate about Data Analysis**
 
 ## 🌱 About me
 
@@ -10,10 +10,10 @@
   
 ## 🪢 Tools & Technologies
 
--- **Languages**: Python, SQL, R , Markdown
--- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
--- **Tools**: Jupyter Notebook, Google Colab, Excel, Git & GitHub
--- **Areas**: Data Cleaning, EDA, Data Visualization, Predictive Modeling
+- **Languages**: Python, SQL, R , Markdown
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools**: Jupyter Notebook, Google Colab, Excel, Git & GitHub
+- **Areas**: Data Cleaning, EDA, Data Visualization, Predictive Modeling
 
 ## 📄 Working on Project related to Data Analyst
 
@@ -23,8 +23,8 @@
 
 ## 🫱 Reach me out
 
---📫 Email: ganeshkumartri@email.com
---💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-v-31416a354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsd3DLQ3NTieJdWEP3v40sA%3D%3D)
+-📫 Email: ganeshkumartri@email.com
+-💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-v-31416a354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsd3DLQ3NTieJdWEP3v40sA%3D%3D)
 
 
 ## 📩 Quote
