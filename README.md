@@ -6,7 +6,7 @@
 - 🎓 B.Tech Biotechnology student exploring the world of data science.
 - 📫 Currently learning: SQL, Python for Data Analysis, Statistics, and Machine Learning.
 - 💡 Interested in applying data science to real-world biological and research problems.
-- 📌 Love storytelling with data — from raw CSVs to compelling visualizations.
+- 📌 I enjoy storytelling with data — transforming raw CSVs into compelling visualizations.
   
 ## 🪢 Tools & Technologies
 
@@ -23,8 +23,8 @@
 
 ## 🫱 Reach me out
 
--📫 Email: ganeshkumartri@email.com
--💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-v-31416a354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsd3DLQ3NTieJdWEP3v40sA%3D%3D)
+- 📫 Email: ganeshkumartri@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-v-31416a354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsd3DLQ3NTieJdWEP3v40sA%3D%3D)
 
 
 ## 📩 Quote
